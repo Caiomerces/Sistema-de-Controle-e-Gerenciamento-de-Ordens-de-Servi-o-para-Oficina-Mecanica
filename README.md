@@ -1,0 +1,2 @@
+# Sistema-de-Controle-e-Gerenciamento-de-Ordens-de-Servi-o-para-Oficina-Mecanica
+Este projeto tem como objetivo desenvolver um sistema para controle e gerenciamento da execução de ordens de serviço em uma oficina mecânica. O sistema permitirá o registro de clientes, veículos, equipes de mecânicos, serviços realizados e peças utilizadas, facilitando o acompanhamento e a gestão eficiente das atividades da oficina.
